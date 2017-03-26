@@ -1,0 +1,207 @@
+.navbar-brand
+{
+    padding: 0px 0px 0px 5px;
+}
+
+.wrapper
+{
+    padding: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    min-height: 500px;
+    background: url(../images/workspace.png) no-repeat center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+form
+{
+    width: 100%;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 5px;
+
+    float: left;
+    white-space: nowrap;
+    /* These bottom 2 make the form wrap nicely */
+}
+
+h1
+{
+    font-family: Pacifico;
+}
+
+.wrapper a
+{
+    /*color: #f0ad4e;*/
+    color: black;
+    font-weight: bold;
+}
+
+.wrapper a:focus, .wrapper a:hover
+{
+    /*color: #ec971f;*/
+    color: black;
+    font-weight: bold;
+    /*text-decoration: none;*/
+}
+
+/*button
+{
+    font-weight: bold;
+    color: white;
+    background-color: rgba(252, 164, 0, 1);
+}
+.appointment
+{
+    display: block;
+    height: auto;
+    min-height: 110px;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #C5C5C8;
+    box-shadow: 0 0 3px #000;
+}
+
+.appointment-box-calendar 
+{
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 2px;
+    margin: 10px;
+    display: block;
+    float: left;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    background: rgba(0,0,0,0.2);
+}
+.appointment-box-calendar .time
+{
+    font-size: 15px;  
+    font-weight: bold; 
+    line-height: 100%;
+    background: black;
+}
+.appointment-box-calendar .date
+{
+    font-size: 45px;    
+    line-height: 100%;
+}
+.appointment-box-calendar .month
+{
+    font-size: 15px;    
+    line-height: 200%;
+}
+
+.appointment-box-content 
+{
+    padding: 10px;
+    margin-left: 90px;
+}
+
+.appointment-box-detail
+{
+    margin: 10px 0px 20px;
+    font-weight: bold;
+    font-size: 18px;
+    height: 120px;  
+    overflow: auto;
+}
+
+.appointment-top-message
+{
+    cursor: pointer;
+    max-width: 100%;
+    float: right!important;    
+}
+
+.appointment-title
+{
+    /*text-transform: uppercase;*/
+    text-align: left;
+    margin: 10px 0px;   
+    font-size: 30px;
+    font-weight: bold;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.appointment-calendar
+{
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 2px;
+    width: 70px;
+    height: 70px;
+}
+
+.appointment-detail-icon
+{
+    text-align: center;
+    width: 20px;
+}
+
+.appointment-button
+{
+    width: 100%;
+    margin: 5px 10px;   
+}
+
+/* 020317: ADDED BY ELENDA. indicator for accept-reject-default*/
+.attendee-label-default
+{
+    background-color:#d2d6de;color:#444
+}
+
+.attendee-label-accepted
+{
+    background-color:#53ff1a;color:#444
+}
+
+.attendee-label-rejected
+{
+    background-color:#ff1a1a;color:#444
+}
+
+.form-control 
+{
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.profile-img
+{
+    width: 159px;
+    height: 159px;
+    border-radius: 100%;
+    margin-top: 10px;
+    margin: 20px auto;
+    box-shadow: 0 1px 1px 1px #A7A8AB;
+}
+
+.label
+{    
+    word-wrap: break-word;
+    white-space: normal;
+}*/
